@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# WK5-day1-Favorite-five
-=======
 # wk5day1-favorite
->>>>>>> 96d9a736b3744413bfb940d5aba9b930d9937d1f
-=======
-# wk5day1-favorite
->>>>>>> 96d9a736b3744413bfb940d5aba9b930d9937d1f
 Using Flask, create a project that lists your top 5 favorite artists or sports figures. Your project should have the following features:
 
 - A Home/index route
